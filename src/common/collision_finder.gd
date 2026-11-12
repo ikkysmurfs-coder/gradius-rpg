@@ -1,7 +1,7 @@
 ## Find all collision shapes of a given mask within a specified search radius.
 ##
 ## The CollisionFinder is used to search for objects that contain a [CollisionObject2D]. In the 
-## OpenRPG it serves as the cornerstone of the [Gameboard]/[Gamepiece] system, since objects 
+## Gradius RPG it serves as the cornerstone of the [Gameboard]/[Gamepiece] system, since objects 
 ## (gamepieces, terrain, etc.) are found dynamically by collision shape.
 ##
 ## [br][br]For example, to see if a given cell is occupied a CollisionFinder would be used to 

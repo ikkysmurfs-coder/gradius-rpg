@@ -2,7 +2,7 @@
 
 ![Godot Open RPG banner](media/Open-RPG.png)
 
-OpenRPG is a a demo showing how to create a classical turn-based RPG in Godot 4. It's currently a work-in-progress.
+Gradius RPG is a a demo showing how to create a classical turn-based RPG in Godot 4. It's currently a work-in-progress.
 
 **You need to use Godot 4.7.2, or newer, to open the project!** You can find the official releases on the [Godot website](https://godotengine.org/).
 

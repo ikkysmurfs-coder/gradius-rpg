@@ -1,7 +1,7 @@
 ## An exceptionally simple item inventory that tracks which items the player has picked up.
 ## Normally, inventory design would be more complex. In particular, you would want to separate the
 ## inventory data structures from the UI implementation, as should be done in a future update to
-## the OpenRPG project.
+## the Gradius RPG project.
 ## In this case, we just want to show the player which items have been picked up so that we can demo
 ## a variety of RPG events.
 class_name UIInventory extends HBoxContainer

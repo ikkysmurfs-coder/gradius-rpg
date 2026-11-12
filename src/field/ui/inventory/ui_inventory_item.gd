@@ -1,5 +1,5 @@
 ## An inventory item, tracking both it's UI representation and underlying data.
-## Will be replaced in future iterations of the OpenRPG project.
+## Will be replaced in future iterations of the Gradius RPG project.
 ## Please see UIInventory for additional information.
 class_name UIInventoryItem extends TextureRect
 
